@@ -2,7 +2,7 @@
 function criarProduto() {
     return {
         nome: 'nome',
-        sobrenome: 'sim'
+        sobrenome: 'sobrenome'
     }
 }
 

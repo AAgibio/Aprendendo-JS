@@ -1,4 +1,4 @@
-let comparaComThis = function (param) {
+let comparaComThis = function(param) {
     console.log(this === param)
 }
 

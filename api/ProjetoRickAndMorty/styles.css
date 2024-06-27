@@ -1,0 +1,31 @@
+#container-teste {
+   background-color: aqua;
+   padding: 10px;
+   margin-top: 10px;
+   display: flex;
+   justify-content: center;
+   border-color: rgb(219, 26, 26);
+   border-style: solid;
+}
+body {
+   display: grid;
+   justify-content: center;
+   align-items: center;
+   height: 100vh;
+}
+img {
+   justify-content: center;
+   display: grid;
+   align-items: center;
+   height: 70vh;
+}
+label {
+   padding: 4px;
+}
+
+#buton {
+   margin-bottom: 10px;
+   justify-content: center;
+   display: grid;
+   align-items: center;
+}
